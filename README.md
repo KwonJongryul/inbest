@@ -259,7 +259,11 @@ public User extends RootDTO{
 
 ![마이페이지,전적](https://github.com/Jeongseulho/CSstudy/assets/110578739/357a2a9d-204e-4957-9f32-957fcf947dd8)
 
-### 로그인 회원가입
+## 마이페이지 팔로워, 팔로잉
+![Animation](https://github.com/KwonJongryul/moviePjt/assets/122791001/6217f7f2-e58f-4a4c-991a-8acabd6382ac)
+
+
+## 로그인 회원가입
 
 ![로그인회원가입](https://github.com/Jeongseulho/CSstudy/assets/110578739/28403132-da96-4aa0-a29c-8ba05e1c7ef0)
 
